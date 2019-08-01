@@ -1,2 +1,2 @@
 # FirstRepository
-Hello comp229!
+Hello Java
