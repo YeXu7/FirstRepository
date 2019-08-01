@@ -1,2 +1,0 @@
-# FirstRepository
-Hello comp229!
